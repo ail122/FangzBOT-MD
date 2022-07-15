@@ -45,33 +45,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/fangzganz?igshid=YmMyMTA2M2Y='
-global.sgh = 'https://github.com/Fangzbotz2007'
-global.sgc = 'https://chat.whatsapp.com/HpxyS6b45SoGIKG7LHddiM'
+global.sig = 'https://saweria.co/IyanMd'
+global.sgh = 'https://saweria.co/IyanMd'
+global.sgc = 'https://chat.whatsapp.com/BMlJePwcV6OLukWRK2aAFi'
 global.sdc = 'https://s.id/Fangzganz'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '088215689772'
-global.povo = '088215689772'
-global.pgopay = '088215689772'
-global.ppulsa = '088215689772'
-global.ppulsa2 = '0895394988123'
-global.psaweria = 'https://saweria.co/FangzBot'
+global.pdana = '-'
+global.povo = '089516947204'
+global.pgopay = '089516947204'
+global.ppulsa = '089516947204'
+global.ppulsa2 = '089516947204'
+global.psaweria = 'https://saweria.co/IyanMd'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895394988123'
-global.nomorown = '6288215689772'
-global.namebot = ' 「 FANGZ BOT ⁩㊣ 」'
-global.nameown = 'Fangz Ganz'
+global.nomorbot = '6285770199435'
+global.nomorown = '6289516947204'
+global.namebot = ' 「 𝚁𝙲𝚃𝙸 BOT ⁩㊣ 」'
+global.nameown = '𝙸𝚈𝙰𝙽 Ganz'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288215689772'],
-  ['62895336282144'],
-  ['6288215689772'],
-  ['6288215689772', 'Fangz Ganz', true]
+  ['6289516947204'],
+  ['6289516947204'],
+  ['6289516947204'],
+  ['6289516947204', '𝙸𝚢𝚊𝚗 Ganz', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -117,13 +117,13 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 //GANTI SETERAH MU
-global.wm = '                「 Fangz BOT あ⁩ 」' //Main Watermark
-global.wm2 = '¸„٭⊹•~⍣°”ˆ˜¨ FangzBOT-Md¨˜ˆ”°⍣~•⊹٭„¸'
-global.wm3 = '⫹⫺ Fangz 𝗕𝗢𝗧'
+global.wm = '                「 𝚁𝙲𝚃𝙸 BOT あ⁩ 」' //Main Watermark
+global.wm2 = '¸„٭⊹•~⍣°”ˆ˜¨ 𝚁𝙲𝚃𝙸 BOT-Md¨˜ˆ”°⍣~•⊹٭„¸'
+global.wm3 = '⫹⫺ 𝚁𝙲𝚃𝙸 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '𝗥𝗣𝗚 | Whatsapp ʙᴏᴛ By FANGZ'
-global.author = '       ┄┄┄┅┅❑ FANGZ ❑┅┅┄┄┄'
+global.titlebot = '𝗥𝗣𝗚 | Whatsapp ʙᴏᴛ By 𝚁𝙲𝚃𝙸'
+global.author = '       ┄┄┄┅┅❑ 𝚁𝙲𝚃𝙸 ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
@@ -177,7 +177,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `By Fangz BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `By 𝚁𝙲𝚃𝙸 BOT\nwa.me/${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
 
